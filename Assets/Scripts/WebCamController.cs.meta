@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0744e3a4198a2a042bc069c3d0e52307
+timeCreated: 1471960599
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - webcamTexture: {instanceID: 0}
+  - restaurant: {fileID: 21300000, guid: e15b2ccfd40e7b24bbb6d46a2bb1a6b1, type: 3}
+  - night: {fileID: 21300000, guid: 8a0203c0bc9911747a58445239e68f9f, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
